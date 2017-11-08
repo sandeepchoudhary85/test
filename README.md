@@ -24,7 +24,7 @@ Import this in to posman
  
  /*
  *
- * The mail Function is start 
+ * The main Function is start 
  *
  */
  
